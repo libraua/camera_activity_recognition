@@ -1,0 +1,5 @@
+tensorflow>=1.7
+tensorflow-hub
+imageio
+opencv-python
+ipython
